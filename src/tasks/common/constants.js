@@ -1,0 +1,1 @@
+export const NUMBER_OF_ITEMS_TO_RENDER = 10000;
